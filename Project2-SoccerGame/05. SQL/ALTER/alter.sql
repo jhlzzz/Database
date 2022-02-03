@@ -1,0 +1,1 @@
+alter table MEMBER add constraint MEM_UK unique(M_PHONE);

@@ -1,0 +1,11 @@
+delete from TEAM;
+delete from MANAGER;
+delete from SPONSOR_PLAYER;
+delete from AWARD;
+delete from RECORD;
+delete from WISHILIST;
+delete from MY_PLAYER;
+delete from CONTRACT;
+delete from PLAYER;
+delete from MEMBER;
+delete from LEAGUE;
